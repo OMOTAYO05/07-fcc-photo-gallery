@@ -1,27 +1,40 @@
-# Project Name
+# 07-fcc-Photo-Gallery
 
-> One paragraph statement about the project.
+> This is a simple photo gallery project used to learn flexboxes.
 
-![screenshot](./app_screenshot.png)
+![Photo Gallery](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5,
+  - `img`:used to embed an image into a webpage
+  - `div`:a versatile container used to group block-level content and structure an HTML document
+- CSS,
+  - `display`: a fundamental tool in web design for controlling the layout of elements on a webpage
+  - `flex-box`: it helps to create flexible and responsive layouts more easily
+  - `align-items`: used to align flex items inside a flex container, or grid items within a grid container
+  - `justify-content`: used to align items along the main axis of their container
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+- Github Action
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Deployment Link
+
+[Deployment] (https://vercel.com/onikosi-omotayo-eniolas-projects/07-fcc-photo-gallery)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/OMOTAYO05/html-css-template.git
 
 ```
 
